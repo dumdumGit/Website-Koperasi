@@ -1,0 +1,92 @@
+.tableheader{
+ background:#999999;
+ color:#FFFFFF;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+ height:30px;
+}
+ 
+#column_padding{
+ padding-left:2%;
+}
+ 
+td a {
+ text-decoration:none;
+ color:#0033CC;
+ /8text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;*/
+}
+ 
+td a:hover{
+ color:yellow;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ 
+#rowHover:hover {
+ background:#CCCCCC;;
+}
+ 
+#removeborder{
+ border:0px;
+ height:35px;
+}
+ 
+.form{
+ margin:0px;
+ margin-left:15px;
+}
+ 
+input[type="text"]{
+ width:95%;
+}
+ 
+input[type="radio"]{
+ width:20%;
+}
+ 
+.tableadd {
+ background:#CCCCCC;
+ padding:20px;
+ border:solid 1px;
+}
+ 
+#berhasil {
+ width:20%;
+ background:#009933;
+ color:#fff;
+ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+ 
+#row_button {
+ 
+}
+ 
+#button_tambah{
+ background:blue;
+ color:#FFFFFF;
+ padding:3px;
+ border:solid 1px yellow;
+ margin-left:1%;
+}
+
+#posisi{
+	position:absolute;
+	bottom:0;
+	.border{
+border:1px solid #DCDCDC;
+margin-bottom:10px;
+}
+.border th{
+background:#D3D3D3;
+color:gray;
+font-size:16px;
+padding:10px 10px 10px 15px;
+}
+.border td{
+padding:0px;
+color:gray;
+font-size:16px;
+padding:10px 10px 10px 15px;
+}
+ .border tr:nth-child(odd) td {
+ background-color: #F0F0F0; 
+ }
+
