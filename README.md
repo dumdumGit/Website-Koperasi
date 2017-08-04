@@ -1,2 +1,2 @@
-# Cooperative---PHP-Web-Based
-Cooperative Web Based using PHP ,Wamp server and sql
+# Koperasi ---PHP-Web-Based
+Website Koperasi menggunakan PHP dan mysql
